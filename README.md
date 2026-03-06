@@ -6,12 +6,17 @@
 
 ## Code
 $ python3 wardial.py
-**str.split('\n')**
-Scanning: 175.45.176.0 
+
+Scanning: 175.45.176.0
+
 Scanning: 175.45.176.1 
+
 Scanning: 175.45.176.2 
+
 ... 
+
 Scanning: 175.45.179.254 
+
 Scanning: 175.45.179.255
 
 dprk_ips_with_servers= [

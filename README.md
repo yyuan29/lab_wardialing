@@ -5,8 +5,9 @@
 **Description:** My project is looking for and totaling all the IP addresses in the DPRK that runs a web server. 
 
 ## Code
-$ python3 wardial.py\n
-Scanning: 175.45.176.0 \n
+$ python3 wardial.py
+**str.split('\n')**
+Scanning: 175.45.176.0 
 Scanning: 175.45.176.1 
 Scanning: 175.45.176.2 
 ... 
